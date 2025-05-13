@@ -7,5 +7,5 @@ Neste repositório, você encontrará os projeto que foi a minha introdução em
 ## O que foi aprendido
 
 -  Fundamentos do Flutter e da linguagem Dart
--  Criação de interfaces responsivas e adaptativas
+-  Criação de interfaces responsivas e adaptativas.
 
